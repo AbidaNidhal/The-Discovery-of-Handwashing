@@ -14,7 +14,6 @@ The objectives of this project are :
     Display the relationship between variables through different periods
     Perform some calculations to create new variables
     Visualize the effect of handwashing on decreasing the number of deaths
-<br>
 **Screen shots**
 ![alt text](https://github.com/AbidaNidhal/The-Discovery-of-Handwashing/blob/main/1.jpg)
 ![alt text](https://github.com/AbidaNidhal/The-Discovery-of-Handwashing/blob/main/2.jpg)
